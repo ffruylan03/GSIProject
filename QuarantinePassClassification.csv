@@ -1,0 +1,7 @@
+﻿"name","description"
+"Suspect","Blue - PUI (mild, Severe, critical) hasn’t tested yet."
+"Probable","Yellow - PUI (mild, Severe, critical) Perform Testing and waiting for results."
+"Confirmed","Red - COVID-19 test with Positive result"
+"Negative","Green - COVID-19 test with Positive result"
+"Recovered","Green - COVID-19 test with Positive result"
+"Death","Orange - COVID-19 Death Patient"
