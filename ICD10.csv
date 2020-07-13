@@ -923,7 +923,7 @@ ICDId;Category;ICD10CODE;DESCRIPTION
 922;B20-B24;B22.0/1;AIDS resulting in encephalopathy
 923;B20-B24;B22.1;HIV disease resulting in lymphoid interstitial pneumonitis(AIDS/HIV RESULTING IN PYMPHOID INTERSTITIAL PNEUMONITIS)
 924;B20-B24;B22.1/0;HIV resulting in lymphoid interstitial pneumonitis
-925;B20-B24;B22.1/1;AIDS resulting in lymphoid– interstitial pneumonitis
+925;B20-B24;B22.1/1;AIDS resulting in lymphoidÂ– interstitial pneumonitis
 926;B20-B24;B22.2;HIV disease resulting in wasting syndrome(AIDS/HIV RESULTING IN WASTING SYNDROME)
 927;B20-B24;B22.2/0;HIV resulting in wasting syndrome
 928;B20-B24;B22.2/1;AIDS resulting in wasting syndrome
@@ -5248,28 +5248,28 @@ ICDId;Category;ICD10CODE;DESCRIPTION
 5247;J10-J18;J18.90/2;Hemophilus influenzae [H. influenzae] pneumonia, minimal risk
 5248;J10-J18;J18.90/3;Swine flu [Influenza A H1N1] with minimal-risk pneumonia
 5249;J10-J18;J18.90/4;Influenza with minimal-risk pneumonia (specific influenza virus is not identified)
-5250;J10-J18;J18.90/5;Pedia Community Acquired Pneumonia A (PCAP A) – minimal risk, organism is not specified
+5250;J10-J18;J18.90/5;Pedia Community Acquired Pneumonia A (PCAP A) Â– minimal risk, organism is not specified
 5251;J10-J18;J18.91/0;Influenza with low-risk pneumonia (specific influenza virus is identified)
 5252;J10-J18;J18.91/1;Avian influenza [Influenza A H5N1] with low-risk pneumonia
 5253;J10-J18;J18.91/2;Hemophilus influenzae [H. influenzae] pneumonia, low risk
 5254;J10-J18;J18.91/3;Swine flu [Influenza A H1N1] with low-risk pneumonia
 5255;J10-J18;J18.91/4;Influenza with low-risk pneumonia (specific influenza virus is not identified)
 5256;J10-J18;J18.91/5;Adult low-risk Community Acquired Pneumonia (CAP), organism is not specified
-5257;J10-J18;J18.91/6;Pedia Community Acquired Pneumonia B (PCAP B)– low risk, organism is not specified
+5257;J10-J18;J18.91/6;Pedia Community Acquired Pneumonia B (PCAP B)Â– low risk, organism is not specified
 5258;J10-J18;J18.92/0;Influenza with moderate-risk pneumonia (specific influenza virus is identified)
 5259;J10-J18;J18.92/1;Avian influenza [Influenza A H5N1] with moderate-risk pneumonia
 5260;J10-J18;J18.92/2;Hemophilus influenzae [H. influenzae] pneumonia, moderate risk
 5261;J10-J18;J18.92/3;Swine flu [Influenza A H1N1] with moderate-risk pneumonia
 5262;J10-J18;J18.92/4;Influenza with moderate-risk pneumonia (specific influenza virus is not identified)
 5263;J10-J18;J18.92/5;Adult moderate-risk Community Acquired Pneumonia (CAP), organism is not specified
-5264;J10-J18;J18.92/6;Pedia Community Acquired Pneumonia C (PCAP C)– moderate risk, organism is not specified
+5264;J10-J18;J18.92/6;Pedia Community Acquired Pneumonia C (PCAP C)Â– moderate risk, organism is not specified
 5265;J10-J18;J18.93/0;Influenza with high-risk pneumonia (specific influenza virus is identified)
 5266;J10-J18;J18.93/1;Avian influenza [Influenza A H5N1] with high-risk pneumonia
 5267;J10-J18;J18.93/2;Hemophilus influenzae [H. influenzae] pneumonia, high risk
 5268;J10-J18;J18.93/3;Swine flu [Influenza A H1N1] with high-risk pneumonia
 5269;J10-J18;J18.93/4;Influenza with high-risk pneumonia (specific influenza virus is not identified)
 5270;J10-J18;J18.93/5;Adult high-risk Community Acquired Pneumonia (CAP), organism is not specified
-5271;J10-J18;J18.93/6;Pedia Community Acquired Pneumonia D (PCAP D)– high risk, organism is not specified
+5271;J10-J18;J18.93/6;Pedia Community Acquired Pneumonia D (PCAP D)Â– high risk, organism is not specified
 5272;J10-J18;J18.99/0;Influenza with pneumonia (specific influenza virus is identified)
 5273;J10-J18;J18.99/1;Avian influenza [Influenza A H5N1] with pneumonia
 5274;J10-J18;J18.99/2;Hemophilus influenzae [H. influenzae] pneumonia
@@ -13344,3 +13344,5 @@ ICDId;Category;ICD10CODE;DESCRIPTION
 13343;U82-U85;U84.3/3;MDRTB confirmed by sputum and culture
 13344;W20-W49;W20;Struck by thrown, projected or falling object
 13345;W20-W49;W27;Contact with nonpowered hand tool
+13346;U00-U09;U07.1;COVID-19, virus identified
+13347;U00-U09;U07.2;COVID-19, virus not identified
