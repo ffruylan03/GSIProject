@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eCLAIMS pHospitalEmail="sr@yahoo.com" pHospitalCode="373001" pUserPassword="" pUserName=":DUMMYSCERT373001">
+   <eTRANSMITTAL pTotalClaims="1" pHospitalTransmittalNo="CN-000000002">
+      <CLAIM pIsEmergency="N" pPatientType="I" pPhilhealthClaimType="ALL-CASE-RATE" pTrackingNumber="" pClaimNumber="CN-000000002">
+         <CF1 pEmployerName="" pPEN="" pPatientSex="M" pPatientBirthDate="1-21-1974" pPatientMiddleName="IVA2SRCH MN TWENTY" pPatientSuffix="None" pPatientFirstName="IVA2SRCH FN TWENTY" pPatientLastName="IVA2SRCH LN TWENTY" pPatientPIN="19-026852704-8" pPatientIs="M" pEmailAddress="" pMobileNo="" pLandlineNo="" pMemberSex="M" pZipCode="14131" pMailingAddress=",,QUEZON CITY,METRO MANILA,Philippines" pMemberShipType="NS" pMemberBirthDate="1-21-1974" pMemberMiddleName="IVA2SRCH MN TWENTY" pMemberSuffix="" pMemberFirstName="IVA2SRCH FN TWENTY" pMemberLastName="IVA2SRCH LN TWENTY" pMemberPIN="19-026852704-8" />
+         <CF2 pAccommodationType="P" pReferralReasons="" pReferralIHCPAccreCode="" pExpiredTime="12:00:00 AM" pExpiredDate="1-1-0001" pDisposition="I" pDischargeTime="12:00:00 AM" pDischargeDate="05-24-2022" pAdmissionTime="12:00:00 AM" pAdmissionDate="05-11-2022" pReferredIHCPAccreCode="" pPatientReferred="N">
+            <DIAGNOSIS pAdmissionDiagnosis="ADMISSION">
+               <DISCHARGE pDischargeDiagnosis="sample final">
+                  <ICDCODE pICDCode="O46.8" />
+               </DISCHARGE>
+            </DIAGNOSIS>
+            <SPECIAL />
+            <PROFESSIONALS pDoctorSignDate="5-11-2022" pDoctorCoPay="0.00" pWithCoPay="N" pDoctorSuffix="" pDoctorMiddleName="Santiago" pDoctorFirstName="Niño Carlo" pDoctorLastName="Cioco" pDoctorAccreCode="1100-9501805-6" />
+            <CONSUMPTION pEnoughBenefits="Y">
+               <BENEFITS pGrandTotal="2926.16" pTotalProfFees="2040.00" pTotalHCIFees="886.16" />
+            </CONSUMPTION>
+            <APR>
+               <APRBYPATREPSIG pDateSigned="04-24-2022">
+                  <DEFINEDPATREPREL pRelCode="M" />
+                  <OTHERREASONFORSIGNING pReasonCode="O" />
+               </APRBYPATREPSIG>
+            </APR>
+         </CF2>
+         <ALLCASERATE>
+            <CASERATE pICDCode="O46.8" pCaseRateAmount="6800" pRVSCode="" pCaseRateCode="CR0194" />
+         </ALLCASERATE>
+         <PARTICULARS>
+            <DRGMED pQuantity="1" pPreparation="3x a day" pBrandName="" pGenericName="AZITHROMYCIN ( as DIHYDRATE) 500 mg POWDER VIAL" pPNDFCode="" pDrugCode="AZITH0001700006POW2400231BOTTL" pPurchaseDate="05-13-2022" />
+            <XLSO pQuantity="1" pDiagnosticName="ABDOMEN : FLAT- UPRIGHT And LAT" pDiagnosticType="" pDiagnosticDate="05-11-2022" />
+         </PARTICULARS>
+         <DOCUMENTS />
+      </CLAIM>
+   </eTRANSMITTAL>
+</eCLAIMS>
